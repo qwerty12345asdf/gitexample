@@ -5,3 +5,5 @@ first we commit the changes after every single time we make one for ex. now ...
 once committed the committed data that is whatever we changed will now get saved and we can just continue working it is very similar to saving except now your changes will be logged every time you commit the file .
 In the end what you have to do is push the file so that it can be saved to a remote server in this case github here we can see the various commits done to the file 
 alternatively we can view the commits by using the command "git log"
+But don't forget to add the file that needs to be commited before committing it otherwise it wont be commited 
+by doing : $ git add "file_name.extension" 
